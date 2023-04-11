@@ -7,53 +7,18 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can download a PDF copy of my CV [here](/files/SFernando-CV.pdf).
+
+Current
+======
+* Research and Teaching assistant/PhD student, 2021-present
+  * [Chair of Econometrics, MLU Halle](https://oekonometrie.wiwi.uni-halle.de/), Germany
+
+* Affiliated Researcher, 2020-present
+  * [Verité Research](https://www.veriteresearch.org/), Sri Lanka
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* MA. in Economics, Uppsala University, Sweden 2017
+* BA. in Business Economics, University of Colombo, Sri Lanka 2014
+* Exchange Semester, La Trobe University Melbourne, Australia, 2011

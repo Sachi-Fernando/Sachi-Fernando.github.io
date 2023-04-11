@@ -24,4 +24,11 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'tzinfo', '1.2.3'
+  gem 'tzinfo-data', '1.2017.2'
+  gem 'faraday-retry'
+  gem 'webrick'
 end
+
+#gem 'tzinfo', '1.2.3'
+#gem 'tzinfo-data', '1.2017.2'
