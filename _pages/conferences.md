@@ -10,12 +10,12 @@ author_profile: true
 
 #### 2022
 
-* Environmental protection and sustainability forum, Graz
+* Environmental Protection and Sustainability forum, Graz
 * SOEP conference, Berlin
-* Bamberg-Halle-Jena-Leipzig workshop on empirical micro and applied econometrics, June, online
+* Bamberg-Halle-Jena-Leipzig workshop on Empirical Micro and Applied Econometrics, June, online
 * STATEC Well-being conference, Luxembourg
-* 9th CGDE doctoral workshop, online
+* 9th CGDE Doctoral workshop, online
 
 #### 2021
-* 5th conference of econometric models of climate change, August, online
-* Bamberg-Halle-Jena-Leipzig workshop on empirical micro and applied econometrics, December, online
+* 5th Conference of Econometric Models of Climate Change, August, online
+* Bamberg-Halle-Jena-Leipzig workshop on Empirical Micro and Applied Econometrics, December, online
