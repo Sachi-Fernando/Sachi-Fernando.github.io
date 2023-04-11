@@ -13,7 +13,7 @@ with Christoph Wunder (Halle)
 <!--Earlier version - World Bank working paper series, Nov 2019
 [Download paper here](https://openknowledge.worldbank.org/handle/10986/32746)-->
 
-### 2. Do natural disasters affect concerns about climate change
+### 2. Do natural disasters affect concerns about climate change?
 with Katharina Kolb (Halle) and Christoph Wunder (Halle)
 
 <!--This paper investigates if directly experiencing a natural disaster affects an individual's concerns about climate change, in Germany.-->
