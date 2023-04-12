@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-### [Reducing the gap in understanding Sri Lanka's gender gap](/files/gender.pdf), *Verité Research Insight, March 2021*
+### [Reducing the Gap in Understanding Sri Lanka's Gender Gap](/files/gender.pdf), *Verité Research Insight, March 2021*
 
-### [The gap between policy and practice: A review of the data dissemination practices of Sri Lanka's department of census and statistics](/files/data.pdf), *Verité Research Policy Note, Feb 2021*
+### [The Gap Between Policy and Practice: A Review of the Data Dissemination Practices of Sri Lanka's Department of Census and Statistics](/files/data.pdf), *Verité Research Policy Note, Feb 2021*
 
-### [Insights for mitigating corruption: summary findings](/files/corruption.pdf), *Verité Research Policy Note, August 2020*
+### [Insights for Mitigating Corruption: Summary Findings](/files/corruption.pdf), *Verité Research Policy Note, August 2020*
 
-### [Natural disaster insurance coverage: Solving the lethargy of language policy will help SMEs island-wide](/files/disaster.pdf), *Verité Research Policy Note, April 2018*
+### [Natural Disaster Insurance Coverage: Solving the Lethargy of Language Policy will Help SMEs Island-wide](/files/disaster.pdf), *Verité Research Policy Note, April 2018*
 
-### [Sri Lanka's economic competitiveness: a microcosm of its politics](/files/competitiveness.pdf), *Verité Research Insight, March 2018*
+### [Sri Lanka's Economic Competitiveness: A Microcosm of its Politics](/files/competitiveness.pdf), *Verité Research Insight, March 2018*
