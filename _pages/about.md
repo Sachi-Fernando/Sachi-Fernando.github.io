@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Sachi and I am a Teaching and Research Assistant/PhD Student at the [Chair of Econometrics and Empirical Economics](https://oekonometrie.wiwi.uni-halle.de/), at the [Martin Luther University Halle-Witternberg](https://www.uni-halle.de/).
+Hi! I am Sachi and I am a Teaching and Research Assistant/PhD Student at the [Chair of Econometrics and Empirical Economics](https://oekonometrie.wiwi.uni-halle.de/), at the [Martin Luther University Halle-Witternberg](https://www.uni-halle.de/) (MLU).
 
 My research is focused on measuring the efficacy of climate policies, both in terms of environmental effectiveness and well-being. I am also interested in research related to improving governance, accountability and socio-economic living conditions in Sri Lanka, where I am from.
 
