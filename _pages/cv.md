@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download a PDF copy of my CV [here](/files/SFernando-CV.pdf).
+<!--You can download a PDF copy of my CV [here](/files/SFernando-CV.pdf).-->
 
 Current
 ======
