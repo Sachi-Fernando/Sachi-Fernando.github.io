@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### 1. Greening the roads: Unveiling the Sector Level and Urban-Rural Dynamics of a Carbon Tax on Emissions in Finland's Road Transportation Sector.
+### 1. Greening the roads: Unveiling the Sector Level and Urban-Rural Dynamics of a Carbon Tax on Finland's Road Transportation Sector Emissions.
 with Christoph Wunder (Halle)
 
 <!--This paper uses synthetic controls to investigate the environmental effectiveness of the carbon taxes introduced in the Nordic countries in the early 1990s.
