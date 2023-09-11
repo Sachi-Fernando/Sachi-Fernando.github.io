@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 #### 2023
-* 28th Annual Conference of the European Association of Environmental and Resource Economists, June, Cyprus (upcoming)
+* 24th Global Conference in Environmental Taxation, Sep, Paris
+* 28th Annual Conference of the European Association of Environmental and Resource Economists, June, Cyprus
+* Bamberg-Halle-Jena-Leipzig Workshop on Empirical Micro and Applied Econometrics, June, Halle
 
 #### 2022
 

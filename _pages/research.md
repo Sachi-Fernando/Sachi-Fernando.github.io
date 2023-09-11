@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### 1. Country-level and Sectoral Impacts of Carbon Taxes on Carbon Emissions: Empirical Evidence from Finland
+### 1. Greening the roads: Unveiling the Sector Level and Urban-Rural Dynamics of a Carbon Tax on Emissions in Finland's Road Transportation Sector.
 with Christoph Wunder (Halle)
 
 <!--This paper uses synthetic controls to investigate the environmental effectiveness of the carbon taxes introduced in the Nordic countries in the early 1990s.
@@ -13,10 +13,13 @@ with Christoph Wunder (Halle)
 <!--Earlier version - World Bank working paper series, Nov 2019
 [Download paper here](https://openknowledge.worldbank.org/handle/10986/32746)-->
 
-### 2. Do Natural Disasters Affect Concerns about Climate Change?
+### 2. The Impact of Natural Disasters on Quality of Life
 with Katharina Kolb (Halle) and Christoph Wunder (Halle)
 
 <!--This paper investigates if directly experiencing a natural disaster affects an individual's concerns about climate change, in Germany.-->
 
-### 3. The Environmental Impact of Luxembourg's Free Public Transportation Policy
+### 3. The Causal Effect of Free Public Transport of Road Transport Emissions: Evidence from Luxembourg
 with Tobias Eibinger (Graz)
+
+### 4. The Environmental Effectiveness of a Carbon Tax: A Comparative Case study of the Nordic Experience 
+
