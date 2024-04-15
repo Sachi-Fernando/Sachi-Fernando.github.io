@@ -20,8 +20,6 @@ with Christoph Wunder (Halle)
 <!--This paper investigates if directly experiencing a natural disaster affects an individual's concerns about climate change, in Germany.-->
 
 
-Resting papers
-
 ### 4. The Environmental Effectiveness of a Carbon Tax: A Comparative Case study of the Nordic Experience 
 
 Earlier version - World Bank working paper series, Nov 2019
