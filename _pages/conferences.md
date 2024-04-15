@@ -5,6 +5,13 @@ permalink: /conferences/
 author_profile: true
 ---
 
+#### 2024
+
+* 29th Annual Conference of the European Association of Environmental and Resource Economists, July, Leuven (scheduled)
+* What Works for Climate Summit, June, Berlin (scheduled)
+* Mapping the Effects of Environmental Policies, April, Hamburg (scheduled)
+* AURÖ Workshop for Young Researchers in Environmental and Resource Economics, March, Karlsruhe
+
 #### 2023
 * 24th Global Conference in Environmental Taxation, September, Paris
 * 28th Annual Conference of the European Association of Environmental and Resource Economists, June, Cyprus
