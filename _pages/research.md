@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### 1. Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions
 with Tobias Eibinger (Graz)
-[working paper link](/files/lux_April2024.pdf)
+<!--[working paper link](/files/lux_April2024.pdf)-->
 ### 2. Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being
 with Katharina Kolb (Halle) and Christoph Wunder (Halle)
 
