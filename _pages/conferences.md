@@ -7,6 +7,11 @@ author_profile: true
 
 #### 2024
 
+* AERNA conference, September, Portugal (scheduled)
+* 29th Annual Conference of the European Association of Environmental and Resource Economists, July, Leuven
+* What Works for Climate Summit, June, Berlin
+* The 6th Workshop for Young Scientists on Applied Economics, May, Hannover
+* Mapping the Effects of Environmental Policies Workshop, April, Hamburg
 * AURÖ Workshop for Young Researchers in Environmental and Resource Economics, March, Karlsruhe
 
 #### 2023
