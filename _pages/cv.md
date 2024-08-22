@@ -11,11 +11,14 @@ redirect_from:
 
 Current
 ======
-* Research and Teaching assistant/PhD student, 2021-present
-  * [Chair of Econometrics, MLU Halle](https://oekonometrie.wiwi.uni-halle.de/), Germany
+* [Martin Luther University Halle-Wittenberg](https://oekonometrie.wiwi.uni-halle.de/), Germany
+  * Research and Teaching assistant/PhD student, 2021-present
 
-* Affiliated Researcher, 2020-present
-  * [Verité Research](https://www.veriteresearch.org/), Sri Lanka
+* [Verité Research](https://www.veriteresearch.org/), Sri Lanka
+  * Affiliated Researcher, 2020-present
+  
+* [Berlin Network on Research on Well-being](https://www.wiwiss.fu-berlin.de/en/forschung/research-on-wellbeing/members/index.html), Berlin
+   * Member, 2023-present
 
 Education
 ======
