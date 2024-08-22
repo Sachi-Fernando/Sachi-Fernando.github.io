@@ -9,7 +9,7 @@ Teaching Assistant at the Chair of Econometrics at MLU for:
 
 * Statistics I (Bachelor level) - SS-2021
 
-* Statistics II (Bachelor level) - WS-2021, WS-2022, WS-2023
+* Statistics II (Bachelor level) - WS-2021, WS-2022, WS-2023, WS-2024
 
 * Introductory Econometrics (Bachelor level) - SS-2022
 
