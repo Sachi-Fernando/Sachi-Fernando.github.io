@@ -9,7 +9,7 @@ redirect_from:
 
 <!--You can download a PDF copy of my CV [here](/files/SFernando-CV.pdf).-->
 
-### Current
+## Current
 
 * [Martin Luther University Halle-Wittenberg](https://oekonometrie.wiwi.uni-halle.de/), Germany
   * Research and Teaching assistant/PhD student, 2021-present
@@ -20,7 +20,7 @@ redirect_from:
 * [Berlin Network on Research on Well-being](https://www.wiwiss.fu-berlin.de/en/forschung/research-on-wellbeing/members/index.html), Berlin
    * Member, 2023-present
 
-### Education
+## Education
 
 * MA. in Economics, Uppsala University, Sweden 2017
 * BA. in Business Economics, University of Colombo, Sri Lanka 2014
