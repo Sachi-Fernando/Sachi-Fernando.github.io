@@ -14,5 +14,5 @@ My research is focused on measuring the efficacy of climate policies, both in te
 
 Before starting my PhD I worked as an Analyst and Team Leader at [Verité Research](https://www.veriteresearch.org/), an independent think tank based in Sri Lanka. At Verité, I worked on a range of projects dealing with youth unemployment, female labour force participation, social and welfare policy, and agricultural policy.
 
-
+### Contact details
 I am happy to collaborate, please contact me at [sachintha.fernando@wiwi.uni-halle.de](mailto:sachintha.fernando@wiwi.uni-halle.de).
