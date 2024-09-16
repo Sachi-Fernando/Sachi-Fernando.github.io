@@ -4,7 +4,7 @@ title: "Research in Progress"
 permalink: /research/
 author_profile: true
 ---
-### 1. Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions
+### 1. Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions *(submitted)*
 with Tobias Eibinger (Graz)
 <details>
 <summary> Abstract</summary>
@@ -14,7 +14,7 @@ In March 2020, Luxembourg became the first country in the world to offer free tr
 </details>
 <!--[working paper link](/files/lux_April2024.pdf)-->
 
-### 2. Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being
+### 2. Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being *(submitted)*
 with Katharina Kolb (Halle) and Christoph Wunder (Halle)
 <details>
 <summary> Abstract</summary>
