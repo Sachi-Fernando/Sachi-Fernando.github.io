@@ -16,7 +16,8 @@ In March 2020, Luxembourg became the first country in the world to offer free tr
 </details>
 <!--[working paper link](/files/lux_April2024.pdf)-->
 
-**2. Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** \ *(under review)* \
+**2. Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** \ 
+*(under review)* \
 with Katharina Kolb (Halle) and Christoph Wunder (Halle)
 <details>
 <summary> Abstract</summary>
@@ -31,7 +32,7 @@ Earlier version - World Bank working paper series, Nov 2019
 
 
 
-## Work in Progress
+# Work in Progress
 
 **1. Greening the roads: Unveiling the Urban-Rural Dynamics of a Carbon Tax on Finland's Road Transportation Sector Emissions.**\
 with Christoph Wunder (Halle)
