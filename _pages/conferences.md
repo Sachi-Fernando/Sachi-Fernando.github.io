@@ -7,7 +7,8 @@ author_profile: true
 
 #### 2024
 
-* AERNA conference, September, Portugal (scheduled)
+* Wageningen EconSeminar WUR series, October, Wageningen (Invited)
+* AERNA conference, September, Carcavelos
 * 29th Annual Conference of the European Association of Environmental and Resource Economists, July, Leuven
 * What Works for Climate Summit, June, Berlin
 * The 6th Workshop for Young Scientists on Applied Economics, May, Hannover

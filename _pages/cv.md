@@ -14,12 +14,12 @@ redirect_from:
 * [Martin Luther University Halle-Wittenberg](https://oekonometrie.wiwi.uni-halle.de/), Germany
   * Research and Teaching assistant/PhD student, 2021-present
 
-* [Verité Research](https://www.veriteresearch.org/), Sri Lanka
-  * Affiliated Researcher, 2020-present
-  
 * [Berlin Network on Research on Well-being](https://www.wiwiss.fu-berlin.de/en/forschung/research-on-wellbeing/members/index.html), Berlin
    * Member, 2023-present
 
+* [Verité Research](https://www.veriteresearch.org/), Sri Lanka
+  * Affiliated Researcher, 2020-present
+  
 ### Education
 
 * MA. in Economics, Uppsala University, Sweden 2017
