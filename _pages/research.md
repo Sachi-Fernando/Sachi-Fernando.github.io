@@ -14,7 +14,7 @@ with Tobias Eibinger (Graz)
 In March 2020, Luxembourg became the first country in the world to offer free transport across all modes of public transport. We leverage this unique quasi-experimental setting to evaluate whether Luxembourg's free public transport policy led to a reduction in carbon emissions from road transport. We use spatial data from the European Emission Database on Global Atmospheric Research to construct a panel of carbon emissions for NUTS 2 regions in the EU from 2016 to 2021. Given Luxembourg's unique characteristics among these regions, Difference-in-Differences and canonical Synthetic-Control methods are inadequate for finding a suitable counterfactual for Luxembourg. Instead, we employ the recently proposed Synthetic Difference-in-Differences method, which combines the advantages of both of these methods to create a synthetic comparison for Luxembourg. We estimate an average reduction in road transport emissions of 6.1% over the period 2020-2021 attributable to the policy. To ensure a causal interpretation, we consider Luxembourg's distinctive characteristics and account for the concurrent COVID-19 pandemic as well as other challenges to address potential threats to identification. In particular, we control for confounding factors such as changes in commuting and working-from-home patterns as well as low-emission engine technologies and fuel prices. Event study analyses and sensitivity checks support the robustness of our results.
 
 </details>
-<!--[working paper link](/files/lux_April2024.pdf)-->
+[working paper link](/files/ZeroFare_Paper.pdf)
 
 **2. Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** 
 *(under review)* \
