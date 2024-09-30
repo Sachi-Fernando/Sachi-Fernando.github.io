@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**1. Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions.** *(submitted)* \
+**1. Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions.** *(under review)* \
 with Tobias Eibinger (Graz)
 <details>
 <summary> Abstract</summary>
