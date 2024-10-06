@@ -25,7 +25,7 @@ This paper employs a panel event study design to examine the causal effects of t
 
 </details>
 
-
+<br/>
 
 # Work in Progress
 
