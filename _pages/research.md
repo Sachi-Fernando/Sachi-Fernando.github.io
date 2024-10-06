@@ -25,12 +25,6 @@ This paper employs a panel event study design to examine the causal effects of t
 
 </details>
 
-**3. The Environmental Effectiveness of a Carbon Tax: A Comparative Case study of the Nordic Experience** 
-
-Earlier version - World Bank working paper series, Nov 2019
-[Download paper here](https://openknowledge.worldbank.org/handle/10986/32746)
-
-
 
 # Work in Progress
 
@@ -44,3 +38,10 @@ with Christoph Wunder (Halle)
 <!--This paper investigates if directly experiencing a natural disaster affects an individual's concerns about climate change, in Germany.-->
 
 **2. Finite Pool of Worries and Climate Change**
+
+# Hybernating Papers
+
+**1. The Environmental Effectiveness of a Carbon Tax: A Comparative Case study of the Nordic Experience** 
+
+Earlier version - World Bank working paper series, Nov 2019
+[Download paper here](https://openknowledge.worldbank.org/handle/10986/32746)
