@@ -15,7 +15,6 @@ In March 2020, Luxembourg became the first country in the world to offer free tr
 
 </details>
 
- <br/>
  
 **Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** 
 *(under review)* \
@@ -25,9 +24,7 @@ with Katharina Kolb (Halle) and Christoph Wunder (Halle)
 This paper employs a panel event study design to examine the causal effects of the 2013 flood disaster in East Germany on subjective well-being. We merge geo-spatial flood data with longitudinal data from the Socio-Economic Panel (SOEP) to identify individuals in affected municipalities. Our results show that those affected by the flood report a significant life satisfaction drop of 0.17 points on an 11-point scale, which is equivalent to a 2.5% fall from pre-flood levels, in the year after the flood. The effect is more severe in peripheral areas than in central areas, and for low-income individuals than for high-income individuals. However, the effect dissipates by 2015. Additionally, we observe a notable initial decrease in health satisfaction, followed by recovery, while financial satisfaction was largely unaffected. 
 
 </details>
-
 <br/>
-
 # Work in Progress
 
 **Greening the roads: Unveiling the Urban-Rural Dynamics of a Carbon Tax on Finland's Road Transportation Sector Emissions.**\
@@ -40,7 +37,7 @@ with Christoph Wunder (Halle)
 <!--This paper investigates if directly experiencing a natural disaster affects an individual's concerns about climate change, in Germany.-->
 
 **Finite Pool of Worries and Climate Change**
-
+<br/>
 # Hybernating Papers
 
 **The Environmental Effectiveness of a Carbon Tax: A Comparative Case study of the Nordic Experience** 
