@@ -27,7 +27,7 @@ This paper employs a panel event study design to examine the causal effects of t
 <br/>
 # Work in Progress
 
-**Greening the roads: Unveiling the Urban-Rural Dynamics of a Carbon Tax on Finland's Road Transportation Sector Emissions.**\
+**Carbon Tax on Finland's Road Transportation**\
 with Christoph Wunder (Halle)
 
 <!--This paper uses synthetic controls to investigate the environmental effectiveness of the carbon taxes introduced in the Nordic countries in the early 1990s.
@@ -37,7 +37,7 @@ with Christoph Wunder (Halle)
 <!--This paper investigates if directly experiencing a natural disaster affects an individual's concerns about climate change, in Germany.-->
 
 **Finite Pool of Worries and Climate Change**
-<br/>
+<br>
 # Hybernating Papers
 
 **The Environmental Effectiveness of a Carbon Tax: A Comparative Case study of the Nordic Experience** 
