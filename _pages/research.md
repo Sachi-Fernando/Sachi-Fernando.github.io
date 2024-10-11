@@ -37,7 +37,7 @@ with Christoph Wunder (Halle)
 <!--This paper investigates if directly experiencing a natural disaster affects an individual's concerns about climate change, in Germany.-->
 
 **Finite Pool of Worries and Climate Change**
-<br>
+<br><br><br>
 # Hybernating Papers
 
 **The Environmental Effectiveness of a Carbon Tax: A Comparative Case study of the Nordic Experience** 
