@@ -27,7 +27,7 @@ This paper employs a panel event study design to examine the causal effects of t
 <br/>
 # Work in Progress
 
-**Carbon Tax on Finland's Road Transportation**\
+**The Effect of Finland's Carbon Tax on Road Transportation Emissions**\
 with Christoph Wunder (Halle)
 
 <!--This paper uses synthetic controls to investigate the environmental effectiveness of the carbon taxes introduced in the Nordic countries in the early 1990s.
