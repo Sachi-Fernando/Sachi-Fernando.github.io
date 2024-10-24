@@ -7,6 +7,7 @@ author_profile: true
 
 #### 2024
 
+* Leibniz Open Science Day, Berlin (Scheduled) 
 * Wageningen EconSeminar WUR series, October, Wageningen (Invited)
 * AERNA conference, September, Carcavelos
 * 29th Annual Conference of the European Association of Environmental and Resource Economists, July, Leuven
