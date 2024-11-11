@@ -15,7 +15,7 @@ redirect_from:
   * Research and Teaching assistant/PhD student, 2021-present
   
 * [Joachim Herz Stiftung](https://www.joachim-herz-stiftung.de/en/research/promotion-of-young-talents/add-on-fellowships-for-interdisciplinary-economics)
-   * Add-on Fellow for Interdisciplinar Economics, 2024-present
+   * Add-on Fellow for Interdisciplinary Economics, 2024-present
 
 * [Berlin Network on Research on Well-being](https://www.wiwiss.fu-berlin.de/en/forschung/research-on-wellbeing/members/index.html), Berlin
    * Member, 2023-present
