@@ -7,7 +7,8 @@ author_profile: true
 
 
 **Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions.** *(under review)* \
-with Tobias Eibinger (Graz) [working paper link](/files/ZeroFare_Paper.pdf)
+with Tobias Eibinger (Graz) [working paper link](/files/ZeroFare_Paper.pdf) \
+Winner of the best paper award at the 6th Workshop for Young Scientists on Applied Economics, Hannover, 2025
 <details>
 <summary> Abstract</summary>
 
@@ -17,7 +18,7 @@ In March 2020, Luxembourg became the first country in the world to offer free tr
 
  
 **Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** 
-*(under review)* \
+*(submitted)* \
 with Katharina Kolb (Halle) and Christoph Wunder (Halle)
 <details>
 <summary> Abstract</summary>
