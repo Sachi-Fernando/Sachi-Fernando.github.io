@@ -13,6 +13,9 @@ redirect_from:
 
 * [Martin Luther University Halle-Wittenberg](https://oekonometrie.wiwi.uni-halle.de/), Germany
   * Research and Teaching assistant/PhD student, 2021-present
+  
+* [Joachim Herz Stiftung Fellow](https://www.joachim-herz-stiftung.de/en/research/promotion-of-young-talents/add-on-fellowships-for-interdisciplinary-economics), Berlin
+   * Member, 2024-present
 
 * [Berlin Network on Research on Well-being](https://www.wiwiss.fu-berlin.de/en/forschung/research-on-wellbeing/members/index.html), Berlin
    * Member, 2023-present
