@@ -7,7 +7,7 @@ author_profile: true
 
 
 **Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions.** *(under review)* \
-with Tobias Eibinger (Graz) [working paper link](/files/ZeroFare_Paper.pdf) \
+with Tobias Eibinger (Graz) [working paper link](https://eibinget.github.io/files/zerofare.pdf) \
 *Winner of the Best Paper Award at the 6th Workshop for Young Scientists on Applied Economics, Hannover, 2024*
 <details>
 <summary> Abstract</summary>
