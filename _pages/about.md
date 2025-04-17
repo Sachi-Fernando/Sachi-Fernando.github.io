@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Hi! I am Sachintha and I am a PhD Student at the [Martin Luther University Halle-Witternberg](https://www.uni-halle.de/) (MLU), at the [Chair of Econometrics and Empirical Economics](https://oekonometrie.wiwi.uni-halle.de/).
+I am also a [Joachim Herz Stiftung Fellow](https://www.joachim-herz-stiftung.de/en/research/promotion-of-young-talents/add-on-fellowships-for-interdisciplinary-economics) since 2024.
 
 My research is focused on measuring the efficacy of climate policies, both in terms of environmental effectiveness and well-being. I am also interested in research related to improving governance, accountability and socio-economic living conditions in Sri Lanka, where I am from.
 
