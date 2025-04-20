@@ -6,12 +6,14 @@ author_profile: true
 ---
 
 #### 2025
-* BEWELL meeting, February, Berlin (scheduled)
-* Bamberg-Halle-Jena-Leipzig Workshop on Empirical Micro and Applied Econometrics, January, Bamberg (scheduled)
+* ISQOLS, July, Luxembourg (Scheduled)
+* University of Graz seminar series, April (Invited - Scheduled)
+* BEWELL meeting, February, Berlin
+* Bamberg-Halle-Jena-Leipzig Workshop on Empirical Micro and Applied Econometrics, January, Bamberg 
 
 #### 2024
 
-* Leibniz Open Science Day, November,Berlin 
+* Leibniz Open Science Day, November, Berlin 
 * Wageningen EconSeminar WUR series, October, Wageningen (Invited)
 * AERNA conference, September, Carcavelos
 * 29th Annual Conference of the European Association of Environmental and Resource Economists, July, Leuven
