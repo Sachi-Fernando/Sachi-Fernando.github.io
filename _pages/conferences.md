@@ -7,7 +7,7 @@ author_profile: true
 
 #### 2025
 * ISQOLS, July, Luxembourg (Scheduled)
-* University of Graz seminar series, April (Invited - Scheduled)
+* University of Graz seminar series, April (Invited)
 * BEWELL meeting, February, Berlin
 * Bamberg-Halle-Jena-Leipzig Workshop on Empirical Micro and Applied Econometrics, January, Bamberg 
 
