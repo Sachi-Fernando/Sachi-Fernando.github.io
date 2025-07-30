@@ -17,6 +17,10 @@ main:
 
   - title: "Policy work"
     url: /policy/
+    
+  - title: "WEM-Halle Workshop"
+    url: https://wem-halle.github.io/
+    external: tru
 
   #- title: "Portfolio"
   #  url: /portfolio/

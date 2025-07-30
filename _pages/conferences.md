@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 #### 2025
-* ISQOLS, July, Luxembourg (Scheduled)
+* ISQOLS, July, Luxembourg
 * CIML Conference, July, Lucca
 * University of Graz seminar series, April (Invited)
 * BEWELL meeting, February, Berlin
