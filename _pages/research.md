@@ -40,7 +40,7 @@ This paper employs a panel event study design to examine the causal effects of t
 
 **Finite Pool of Worries and Climate Change**
 <br><br><br>
-# Hybernating Papers
+# Resting Papers
 
 **The Environmental Effectiveness of a Carbon Tax: A Comparative Case study of the Nordic Experience** 
 
