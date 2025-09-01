@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 #### 2025
+* 8th Lindau Nobel Meeting in Economic Sciences, Aug, Lindau
 * ISQOLS, July, Luxembourg
 * CIML Conference, July, Lucca
 * University of Graz seminar series, April (Invited)
