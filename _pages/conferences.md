@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Conferences"
+title: "Talks"
 permalink: /conferences/
 author_profile: true
 ---
 
 #### 2025
-* 8th Lindau Nobel Meeting in Economic Sciences, Aug, Lindau
+* 8th Lindau Nobel Meeting in Economic Sciences, August, Lindau
 * ISQOLS, July, Luxembourg
 * CIML Conference, July, Lucca
 * University of Graz seminar series, April (Invited)
