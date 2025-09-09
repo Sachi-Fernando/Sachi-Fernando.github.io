@@ -5,6 +5,7 @@ permalink: /policy/
 author_profile: true
 ---
 
+### [Sri Lanka's Reversal on Gender Parity: From Global Leader to Global Outlier](https://www.dailymirror.lk/opinion/Sri-Lankas-Reversal-on-Gender-Parity-From-Global-Leader-to-Global-Outlier/172-318457), *Daily Mirror, Sept 2025*
 
 ### [Reducing the Gap in Understanding Sri Lanka's Gender Gap](/files/gender.pdf), *Verité Research Insight, March 2021*
 
