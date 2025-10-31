@@ -18,7 +18,7 @@ where I also served as the Team Leader of the Economics unit. At Verité, I enga
 social welfare policies, and agricultural policy. I collaborated with organizations including UNICEF, UNDP, the World Bank, 
 the European Union, CIPE and the Sri Lankan Government.
 
-From October to December 2025, I will be a visiting the Department of Economics, University of Warwick (UK), hosted by [Prof. Andrew Oswald.](https://www.andrewoswald.com/)
+From October to December 2025, I will be visiting the Department of Economics, University of Warwick (UK), hosted by [Prof. Andrew Oswald.](https://www.andrewoswald.com/)
 
 ### Contact details
 I am happy to collaborate, please contact me at [sachintha.fernando@wiwi.uni-halle.de](mailto:sachintha.fernando@wiwi.uni-halle.de).
