@@ -13,7 +13,7 @@ Teaching Assistant at the Chair of Econometrics at MLU for:
 
 * Introductory Econometrics (Bachelor level) - SS-2022
 
-* Applied Microeconometrics (Master level) - WS-2022/23, WS-2023/24
+* Applied Microeconometrics (Master level) - WS-2022/23, WS-2023/24, WS-2025/26
 
 * Causal Inference (Master level) - SS-2023, SS-2024, SS-2025
 
