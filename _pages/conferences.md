@@ -5,7 +5,9 @@ permalink: /conferences/
 author_profile: true
 ---
 
+
 #### 2025
+* Oxford Wellbeing Research Centre, December (Invited)
 * 8th Lindau Nobel Meeting in Economic Sciences, August, Lindau
 * ISQOLS, July, Luxembourg
 * CIML Conference, July, Lucca
