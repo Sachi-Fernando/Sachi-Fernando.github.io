@@ -5,6 +5,9 @@ permalink: /conferences/
 author_profile: true
 ---
 
+#### 2026
+* RPTU Kaiserslautern, January (scheduled)
+* SES, April, Glasglow (scheduled)
 
 #### 2025
 * Oxford Wellbeing Research Centre, December (Invited)
