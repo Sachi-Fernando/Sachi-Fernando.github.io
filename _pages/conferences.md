@@ -7,6 +7,7 @@ author_profile: true
 
 #### 2026
 * SES, April, Glasgow (scheduled)
+* AURÖ Workshop for Young Researchers in Environmental and Resource Economics, March, Leipzig (scheduled)
 * RPTU Kaiserslautern, January (Invited)
 * BHJL Workshop on Empirical Micro and Applied Econometrics, January, Jena
 
