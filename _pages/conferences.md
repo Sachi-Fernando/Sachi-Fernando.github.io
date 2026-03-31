@@ -7,7 +7,7 @@ author_profile: true
 
 #### 2026
 * SES, April, Glasgow (scheduled)
-* AURÖ Workshop for Young Researchers in Environmental and Resource Economics, March, Leipzig (scheduled)
+* AURÖ Workshop for Young Researchers in Environmental and Resource Economics, March, Leipzig
 * RPTU Kaiserslautern, January (Invited)
 * BHJL Workshop on Empirical Micro and Applied Econometrics, January, Jena
 
@@ -21,7 +21,6 @@ author_profile: true
 * BHJL Workshop on Empirical Micro and Applied Econometrics, January, Bamberg 
 
 #### 2024
-
 * Leibniz Open Science Day, November, Berlin 
 * Wageningen EconSeminar WUR series, October, Wageningen (Invited)
 * AERNA conference, September, Carcavelos
@@ -33,13 +32,11 @@ author_profile: true
 * AURÖ Workshop for Young Researchers in Environmental and Resource Economics, March, Karlsruhe
 
 #### 2023
-
 * 24th Global Conference in Environmental Taxation, September, Paris
 * 28th Annual Conference of the European Association of Environmental and Resource Economists, June, Cyprus
 * BHJL Workshop on Empirical Micro and Applied Econometrics, June, Halle
 
 #### 2022
-
 * Environmental Protection and Sustainability Forum, September, Graz
 * SOEP Conference, July, Berlin
 * BHJL on Empirical Micro and Applied Econometrics, June, online
