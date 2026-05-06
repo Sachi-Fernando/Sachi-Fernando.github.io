@@ -18,8 +18,8 @@ In March 2020, Luxembourg became the first country in the world to offer free tr
 </details>
 
  
-**Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** 
-*Conditionally accepted at Environmental and Resource Economics* \
+**Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** \
+*(Conditionally accepted at Environmental and Resource Economics)* \
 with Katharina Kolb (Halle) and Christoph Wunder (Halle) \
 [SOEPpapers on Multidisciplinary Panel Data Research, No. 1224, DIW Berlin (German Institute for Economic Research)](https://www.diw.de/de/diw_01.c.953264.de/publikationen/soeppapers/2025_1224/rising_waters__falling_well-being__the_effects_of_the_2013_east_german_flood_on_subjective_well-being.html)
 <details>
