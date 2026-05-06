@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-**Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions.** *(Forthcoming in Environmental and Resource Economics)* \
+**Zero fare, cleaner air? The causal effect of Luxembourg's free public transportation policy on carbon emissions.**  \
 with Tobias Eibinger (Graz) [working paper link](https://eibinget.github.io/files/zerofare.pdf) \
-*Winner of the Best Paper Award at the 6th Workshop for Young Scientists on Applied Economics, Hannover, 2024* \
+*(Forthcoming in Environmental and Resource Economics)* \
 *Media coverage: [Verdens Bedste Nyheder](https://verdensbedstenyheder.dk/nyheder/benzin-bimmeren-bliver-i-garagen-tyskerne-har-faaet-millioner-ud-paa-skinnerne-med-billig-togbillet/)*
 <details>
 <summary> Abstract</summary>
