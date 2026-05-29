@@ -46,7 +46,7 @@ This paper employs a panel event study design to examine the causal effects of t
 
 **Finite Pool of Worries and Climate Change Concerns**
 
-**Macro-Level Worries in the Energy Transition: Inisghts from Germany's Coal Phase-Out Regions** \
+**Macro-Level Worries in the Energy Transition: Insights from Germany's Coal Phase-Out Regions** \
 with Yasmine Bakr (Halle) and Christoph Wunder (Halle)
 
 <br><br><br>
