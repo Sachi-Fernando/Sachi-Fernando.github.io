@@ -40,7 +40,24 @@ This paper employs a panel event study design to examine the causal effects of t
 
 **Macro-Level Worries in the Energy Transition: Insights from Germany's Coal Phase-Out Regions** \
 *(Draft available upon request)* \
-with Yasmine Bakr (Halle) and Christoph Wunder (Halle)
+with Yasmine Bakr (Halle) and Christoph Wunder (Halle) \
+<details>
+<summary> Abstract</summary>
+
+This paper studies how a major decarbonization policy affects macro-level worries about society.
+We examine Germany’s 2020 coal phase-out and its effects on worries about social cohesion,
+economic development, and climate change among residents of Eastern German lignite regions.
+Using longitudinal data from the German Socio-Economic Panel (2015-2023) and a panel eventstudy
+difference-in-differences design, we compare individuals in treated coal regions with residents
+of unaffected Eastern German districts before and after the legislation. We find substantial
+regional heterogeneity. In the Central German lignite region, the coal phase-out has little lasting
+effect on macro-level worries, with at most a temporary decline in economic worries. In Lusatia,
+by contrast, worries about social cohesion rise persistently after the policy, while economic worries
+show an immediate but unstable increase. Worries about climate change remain unchanged
+in both regions. The results show that decarbonization policies can reshape perceptions of society
+even when material compensation accompanies transition support.
+</details>
+<br/>
 
 # Work in progress
 
