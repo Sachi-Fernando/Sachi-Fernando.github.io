@@ -40,7 +40,7 @@ This paper employs a panel event study design to examine the causal effects of t
 
 **Macro-Level Worries in the Energy Transition: Insights from Germany's Coal Phase-Out Regions** \
 *(Draft available upon request)* \
-with Yasmine Bakr (Halle) and Christoph Wunder (Halle) \
+with Yasmine Bakr (Halle) and Christoph Wunder (Halle) 
 <details>
 <summary> Abstract</summary>
 
