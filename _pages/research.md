@@ -42,13 +42,14 @@ This paper employs a panel event study design to examine the causal effects of t
 *(Draft available upon request)*
 with Yasmine Bakr (Halle) and Christoph Wunder (Halle)
 
-# Work in Progress
+# Work in progress
 
 <!--**Donor Pool Selection in Synthetic Controls: Lessons from Carbon tax Evaluations**-->
 
 <!--This paper uses synthetic controls to investigate the environmental effectiveness of the carbon taxes introduced in the Nordic countries in the early 1990s.
 
 <!--This paper investigates if directly experiencing a natural disaster affects an individual's concerns about climate change, in Germany.-->
+**Donor Pool Selection in Synthetic Controls: Evidence from Carbon Tax Evaluations**
 
 **Finite Pool of Worries and Climate Change Concerns**
 
