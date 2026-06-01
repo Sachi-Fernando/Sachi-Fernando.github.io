@@ -36,6 +36,12 @@ This paper employs a panel event study design to examine the causal effects of t
 
 </details>
 <br/>
+# Working papers
+
+**Macro-Level Worries in the Energy Transition: Insights from Germany's Coal Phase-Out Regions** \
+*(Draft available upon request)*
+with Yasmine Bakr (Halle) and Christoph Wunder (Halle)
+
 # Work in Progress
 
 <!--**Donor Pool Selection in Synthetic Controls: Lessons from Carbon tax Evaluations**-->
@@ -46,8 +52,7 @@ This paper employs a panel event study design to examine the causal effects of t
 
 **Finite Pool of Worries and Climate Change Concerns**
 
-**Macro-Level Worries in the Energy Transition: Insights from Germany's Coal Phase-Out Regions** \
-with Yasmine Bakr (Halle) and Christoph Wunder (Halle)
+
 
 <br><br><br>
 # Resting Papers
