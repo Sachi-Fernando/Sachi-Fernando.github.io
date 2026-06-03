@@ -38,7 +38,7 @@ This paper employs a panel event study design to examine the causal effects of t
 <br/>
 # Working papers
 
-**Macro-Level Worries in the Energy Transition: Insights from Germany's Coal Phase-Out Regions** \
+**Macro-level worries in the energy transition: Insights from Germany's coal phase-out regions** \
 *(Draft available upon request)* \
 with Yasmine Bakr (Halle) and Christoph Wunder (Halle) 
 <details>
@@ -66,16 +66,16 @@ even when material compensation accompanies transition support.
 <!--This paper uses synthetic controls to investigate the environmental effectiveness of the carbon taxes introduced in the Nordic countries in the early 1990s.
 
 <!--This paper investigates if directly experiencing a natural disaster affects an individual's concerns about climate change, in Germany.-->
-**Donor Pool Selection in Synthetic Controls: Evidence from Carbon Tax Evaluations**
+**Donor pool selection in synthetic controls: Evidence from carbon tax evaluations**
 
-**Finite Pool of Worries and Climate Change Concerns**
+**Finite pool of worries and climate change concerns**
 
 
 
 <br><br><br>
 # Resting Papers
 
-**The Environmental Effectiveness of a Carbon Tax: A Comparative Case study of the Nordic Experience** 
+**The environmental effectiveness of a carbon tax: A comparative case study of the Nordic experience** 
 
 Earlier version - World Bank working paper series, Nov 2019
 [Download paper here](https://openknowledge.worldbank.org/handle/10986/32746)
