@@ -410,7 +410,7 @@
         </div>
         
               <div class="paper">
-        <p class="paper-title">Are the Effects of Finland's Carbon Tax on Transport Emissions Robust to Donor Pool Composition?</p>
+        <p class="paper-title"> Donor Pool Selection in Synthetic Controls: Evidence from Carbon Tax Evaluations</p>
          <p class="paper-meta">  Solo-authored  &nbsp;·&nbsp; Draft available upon request</p>
         <div class="paper-actions">
           <button class="btn" onclick="toggleAbstract(this)">▸ Abstract</button>
@@ -418,18 +418,16 @@
           <!-- <button class="btn" onclick="toggleAbstract(this, 'pres')">▸ Presentations</button> -->
         </div>
         <div class="abstract">
-        This paper replicates a study that used the synthetic control method to estimate the
-        effect of Finland’s 1990 carbon tax introduction on per capita transport sector carbon emissions.
-      I successfully reproduce the main findings: the synthetic counterfactual closely tracks Finnish
-    emissions in the pre-treatment period, with a substantial post-1990 divergence consistent with
-   the original study. However, I show that this result is entirely driven by the inclusion of a single donor unit, 
-   Luxembourg, which is a structural outlier yet receives a positive weight in the
-   optimization. Excluding Luxembourg eliminates the estimated treatment effect, which becomes
-   small in magnitude and indistinguishable from the placebo distribution. A donor pool resampling
-   exercise confirms that the large treatment effect reported in the original study is systematically
-   concentrated in subsamples containing Luxembourg. These findings highlight the sensitivity of
-   synthetic control estimates to donor pool composition and provide an empirical illustration of
-   interpolation bias in action.
+          This paper demonstrates that the absence of objective criteria for donor pool selection in the
+          synthetic control method introduces researcher degrees of freedom that can lead to significant
+          interpolation bias. I highlight this issue through a rigorous replication of Mideksa (2024), which
+          examines the impact of introducing a carbon tax on Finnish road transport emissions. I show that
+          the reported significant results are driven by the inclusion of a single, ’distant’ donor unit. Using
+          Monte Carlo simulations based on a linear factor model, I generalize these findings to show that
+          even with small donor pools, substantial biases arise when the synthetic control is constructed
+          from untreated units that are far from the treated unit in the predictor space. Finally, I propose
+          a diagnostic tool to assess the validity of the control group and provide a set of simple guiding
+          principles to minimize bias in empirical applications.
         </div>
 
        <!-- </div>
@@ -455,10 +453,6 @@
     <section id="wip">
       <h2 class="section-title">Work in Progress</h2>
       <ul class="wip-list">
-        <li>
-          Donor Pool Selection in Synthetic Controls: Evidence from Carbon Tax Evaluations<br />
-          <span class="coauth">Solo-authored</span>
-        </li>
         <li>
           Finite Pool of Worries and Climate Change Concerns</li>
           <span class="coauth">Solo-authored</span>
