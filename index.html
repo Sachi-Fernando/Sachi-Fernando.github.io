@@ -461,19 +461,25 @@
           <!-- <button class="btn" onclick="toggleAbstract(this, 'pres')">▸ Presentations</button> -->
         </div>
         <div class="abstract">
-          The synthetic control method requires the researcher to specify a donor pool, but the methodological literature offers no objective criterion for doing so. This paper documents
-          the consequences. Reviewing published ex-post evaluations of CO2 pricing instruments, I
-          show that donor pool sizes range from 5 to 45 units, and that the variation persists between
-          studies evaluating the same policy and between studies applying near-identical designs to
-          comparable countries. I then replicate two published evaluations in this literature. In both,
-          the estimated effect depends on a single donor that is structurally distant from the treated
-          unit: Luxembourg in the case of the Finnish transport CO2 tax, and Spain in the case of the
-          Swedish tax on residential emissions. Removing that donor renders the originally reported
-          effect statistically insignificant in both cases. he mechanism is interpolation bias, and it
-          is difficult to detect in practice because it is masked by a good pre-treatment fit — a pre-
-          requisite for conducting a synthetic control estimation. The results caution against treating
-          donor pool composition as a secondary specification choice, and point to reporting practices
-          that would make the problem visible
+          The Synthetic Control Method requires researchers to specify a donor pool from which the synthetic control 
+          is constructed. However, the existing literature provides few objective criteria for doing so. 
+          The guidance offered is that the donors should resemble the treated unit with respect to the predictors 
+          of the outcome and that smaller pools made up of more similar units are preferable. 
+          In practice, however, published ex-post evaluations of carbon taxes use donor pools that vary substantially 
+          in size and composition, even between studies of the same policy or with near-identical designs applied to 
+          comparable countries. I replicate three evaluations from this literature: two on carbon taxes on transport 
+          emissions in Finland and the UK, and one on the Swedish carbon tax on residential emissions. 
+          In all three cases, the estimated effect depends on a single donor country that is arguably 
+          structurally dissimilar to the treated unit yet receives a positive weight. 
+          I identify this donor by re-estimating the synthetic control on many subsets of the donor pool, 
+          a procedure that reveals influential donors regardless of their weight.
+          Excluding this donor substantially reduces the estimated effect, rendering it indistinguishable from 
+          placebo effects.  This pattern is consistent with interpolation bias and is 
+          masked by a good pre-treatment fit, which applied work treats as a central prerequisite 
+          for applying the Synthetic Control Method. These findings serve as a caution to applied 
+          researchers when using the Synthetic Controls Method. While the evidence here comes from 
+          carbon tax evaluations, this mechanism is not specific to that setting and may arise wherever a 
+          donor pool contains units that are structurally dissimilar to the treated unit.
         </div>
        </div>
        
