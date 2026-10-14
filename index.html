@@ -251,6 +251,32 @@
     }
     .wip-list li:last-child { border-bottom: none; }
     .wip-list .coauth { font-size: 12.5px; color: var(--muted); }
+    
+        /* Conferences */
+    .conf-list { list-style: none; }
+    .conf-list li {
+      display: grid;
+      grid-template-columns: 3.5rem 1fr;
+      gap: 1rem;
+      padding: .6rem 0;
+      border-bottom: 1px solid var(--rule);
+      font-size: 14px;
+      color: #333;
+    }
+    .conf-list li:last-child { border-bottom: none; }
+    .conf-list .year { color: var(--muted); font-size: 13px; padding-top: .1rem; }
+    .conf-subhead {
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 1.25rem 0 .25rem;
+    }
+    .conf-subhead:first-of-type { margin-top: 0; }
+    
+    
+    
 
     /* ── Mobile ─────────────────────────────────────────────── */
     @media (max-width: 700px) {
@@ -272,6 +298,7 @@
     <li><a href="#working-papers">Working Papers</a></li>
     <li><a href="#wip">Work in Progress</a></li>
     <li><a href="#policy-work">Policy Work</a></li>
+    <li><a href="#conferences">Conferences</a></li>
     <li><a href="#teaching">Teaching</a></li>
   </ul>
 </nav>
@@ -561,6 +588,27 @@
 
 </section>
 
+<section id="conferences">
+  <h2 class="section-title">Talks &amp; Conferences</h2>
+
+  <p class="conf-subhead">Invited Talks</p>
+  <ul class="conf-list">
+    <li><span class="year">2026</span><span>RPTU Kaiserslautern University, Germany</span></li>
+    <li><span class="year">2025</span><span>Oxford Wellbeing Research Centre, UK &nbsp;·&nbsp; University of Graz, Austria</span></li>
+    <li><span class="year">2024</span><span>Wageningen University, Netherlands</span></li>
+  </ul>
+
+  <p class="conf-subhead">Conference Presentations</p>
+  <ul class="conf-list">
+    <li><span class="year">2026</span><span>AURO Workshop for Young Researchers on Environmental and Resource Economics, Leipzig &nbsp;·&nbsp; Scottish Economic Association Annual Conference, Glasgow &nbsp;·&nbsp; EMCC Climate Econometrics Workshop, Aalborg &nbsp;·&nbsp; Verein für Socialpolitik, Innsbruck &nbsp;·&nbsp; Connecting Biodiversity, Climate and Human Behavior, Leipzig &nbsp;·&nbsp; Leibniz Open Science Day, Berlin (scheduled) &nbsp;·&nbsp; Econometric Society Winter Meeting, Warsaw (scheduled)</span></li>
+    <li><span class="year">2025</span><span>BeWell Workshop, Berlin &nbsp;·&nbsp; Frontiers in Causal Inference and Machine Learning, Lucca &nbsp;·&nbsp; ISQOLS, Luxembourg &nbsp;·&nbsp; 8th Lindau Nobel Laureates Meeting, Lindau</span></li>
+    <li><span class="year">2024</span><span>AURO Workshop for Young Researchers on Environmental and Resource Economics, Karlsruhe &nbsp;·&nbsp; Mapping the Effects of Environmental Policies, Hamburg &nbsp;·&nbsp; 6th Applied Economics Workshop, Hannover &nbsp;·&nbsp; What Works for Climate Summit, Berlin &nbsp;·&nbsp; 29th Annual EAERE Conference, Leuven &nbsp;·&nbsp; AERNA Conference, Portugal &nbsp;·&nbsp; Leibniz Open Science Day, Berlin</span></li>
+    <li><span class="year">2023</span><span>28th Annual EAERE Conference, Cyprus &nbsp;·&nbsp; 24th Global Conference on Environmental Taxation, Paris</span></li>
+    <li><span class="year">2022</span><span>9th CGDE Doctoral Workshop (online) &nbsp;·&nbsp; STATEC Well-being Conference, Luxembourg &nbsp;·&nbsp; Environmental Protection and Sustainability Forum, Graz</span></li>
+  </ul>
+</section>
+
+    
  <section id="teaching">
   <h2 class="section-title">Teaching</h2>
   <p style="font-size:13.5px; color:var(--muted); margin-bottom:1rem;">Teaching Assistant at the Chair of Econometrics and Empirical Economics, Martin Luther University Halle-Wittenberg</p>
