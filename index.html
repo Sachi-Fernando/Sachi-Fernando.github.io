@@ -112,6 +112,24 @@
       color: var(--muted);
     }
     .sidebar-links a:hover { color: var(--accent); }
+        .sidebar-links a.cv-btn {
+      align-self: flex-start;
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 3px;
+      padding: .35rem .8rem;
+      margin-bottom: .4rem;
+      transition: background .15s, color .15s;
+    }
+    .sidebar-links a.cv-btn:hover {
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+    }
     .sidebar address {
       font-style: normal;
       font-size: 12.5px;
@@ -138,6 +156,7 @@
       transition: border-color .15s, color .15s;
     }
     .icon-links a:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+    
 
     /* ── Main content ───────────────────────────────────────── */
     main { min-width: 0; }
@@ -314,9 +333,9 @@
     <p class="role">PhD candidate in Economics</p>
     <p class="institution">Martin Luther University Halle-Wittenberg</p>
 
-    <div class="sidebar-links">
-      <!--<a href="files/cv.pdf">↓ Download CV</a>-->
-      <a href="mailto:you@university.edu">sachintha.fernando@wiwi.uni-halle.de</a>
+      <div class="sidebar-links">
+      <a href="files/fernando_cv26.pdf" target="_blank" class="cv-btn">↓ Download CV</a>
+      <a href="mailto:sachintha.fernando@wiwi.uni-halle.de">sachintha.fernando@wiwi.uni-halle.de</a>
     </div>
 
     <div class="icon-links">
